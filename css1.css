@@ -1,0 +1,62 @@
+body{
+ background-color:#E5F2E5;
+}
+
+button
+{
+ background-color:#4CAF50;
+ border:none;
+ border-radius: 6px;
+ color: white;
+ padding:10px;
+ text-align: center;
+ text-decoration: none;
+ display:block;
+ font-size: 20px;
+}
+#re-set{ 
+ float:left;
+}
+#submit{ 
+ float:right;
+}
+div{
+ padding-bottom: 20px;
+}
+form{ 
+ padding: 20px;
+ margin: 20px;
+ border:1px soild black;
+ border-radius: 12px;
+ background-color:#B2D9B2;
+}
+#in{
+ font-weight:lighter;
+ width:150px;
+ height:20px;
+ border-radius:10px;
+ border-color:#4CAF50;
+ background-image: 
+url(https://previews.123rf.com/images/apostrophe/apostrophe1305/apostrophe130500065/19577589-
+abstract-green-background-or-white-background-with-pastel-mint-green-color-on-vintage-grunge￾backgro.jpg);
+}
+#tarea,#city,#products{ 
+ background-image: 
+url(https://previews.123rf.com/images/apostrophe/apostrophe1305/apostrophe130500065/19577589-
+abstract-green-background-or-white-background-with-pastel-mint-green-color-on-vintage-grunge￾backgro.jpg);
+}
+#code{
+ width:30px;
+ border-radius:4px;
+ background-image: 
+url(https://previews.123rf.com/images/apostrophe/apostrophe1305/apostrophe130500065/19577589-
+abstract-green-background-or-white-background-with-pastel-mint-green-color-on-vintage-grunge￾backgro.jpg);
+}
+fieldset{
+ width:200px;
+ background-color:#E5F2E5;
+}
+#cen{ 
+ margin-left: auto;
+ margin-right: auto;
+}
